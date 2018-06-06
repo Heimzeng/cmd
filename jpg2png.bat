@@ -1,1 +1,1 @@
-python3 %~dp0/jpg2png.py
+python %~dp0/jpg2png.py

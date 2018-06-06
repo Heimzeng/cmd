@@ -1,1 +1,1 @@
-python3 %~dp0/imgprocesser.py %1 %2 %3 %4
+python %~dp0/imgprocesser.py %1 %2 %3 %4
