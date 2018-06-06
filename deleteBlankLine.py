@@ -1,0 +1,1 @@
+open('./res.txt', 'w').writelines([l for l in open('./from.txt', 'r').readlines() if l[:-1].strip()])
